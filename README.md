@@ -16,8 +16,8 @@ Heres a few things you should know about me:
 </p>
 
 # Statistics
-![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![LS](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![LS](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![LS](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![LS](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
