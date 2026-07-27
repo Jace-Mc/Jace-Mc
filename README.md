@@ -22,7 +22,7 @@ It's a Windowing System that currently only supports Linux and MacOS.
 You should go check it out if you code in C.
 </p>
 
-# Statistics
+## Statistics
 ![](https://github.com/Jace-Mc/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/Jace-Mc/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/Jace-Mc/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
