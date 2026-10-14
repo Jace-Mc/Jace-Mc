@@ -12,7 +12,7 @@ Heres a few things you should know about me:
 - I LOVE C! It is one of my favorite languages.
 - I also love expirimenting, and making different librarys for C of course.
 - I also LOVE C++ and Lua, I like C++ because it has OOP and the elegance of C. I like Lua because you can make functions, and work with it in c.
-- And I do like coding in Go to.
+- I also LOVE Go, it's a pretty cool language and it has some useful features like being able to work with C.
 
 </p>
 
